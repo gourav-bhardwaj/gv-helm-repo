@@ -9,6 +9,6 @@ entries:
     name: example-app
     type: application
     urls:
-    - https://gourav-bhardwaj.github.com/gv-helm-repo/example-app-0.1.0.tgz
+    - https://gourav-bhardwaj.github.io/gv-helm-repo/example-app-0.1.0.tgz
     version: 0.1.0
 generated: "2021-10-10T13:03:08.2383656+05:30"
