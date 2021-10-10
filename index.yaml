@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  example-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-10T13:03:08.3660524+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f0223fc9e1f0337afa6ebbbdaea4baaa372d142b3364a8ebb8eab613fd00759c
+    name: example-app
+    type: application
+    urls:
+    - https://gourav-bhardwaj.github.com/gv-helm-repo/example-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-10T13:03:08.2383656+05:30"
